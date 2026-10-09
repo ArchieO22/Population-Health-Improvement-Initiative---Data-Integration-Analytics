@@ -119,6 +119,9 @@ Data Sources — EHR, pharmacy claims, lab test results
 📈 Project Outcomes:
 
 ✔Delivered a clean, unified dataset ready for population health analytics
+
 ✔Improved data quality across three healthcare systems
+
 ✔Enabled leadership to analyze chronic disease patterns
+
 ✔Established a reproducible workflow for future analytics modules

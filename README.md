@@ -71,44 +71,37 @@ Connected to a SQLite medical database and executed SQL queries using Python:
 ✔ Distinct patients with payer information
 These queries support chronic disease monitoring and care coordination.
 
-🧠 Key Objectives
+🧠 Key Objectives:
+
 ✔ Data Cleaning & Standardization
+
 Unified data from EHR, pharmacy, and lab systems
-
 Ensured consistency across patient records
-
 Prepared data for population health analytics
 
 ✔ Multi-System Data Integration
+
 Linked datasets using PatientID
-
 Validated cross-system consistency
-
 Produced a single analysis-ready dataset
 
-✔ SQL-Based Clinical Insights
+✔ SQL-Based Clinical Insights:
+
 Extracted patient-level insights
-
 Analyzed chronic condition patterns
-
 Supported leadership’s population health initiative
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 Excel — initial data inspection & summary
-
 Python — pandas, numpy
-
 SQLite — SQL queries for clinical data analysis
-
 Jupyter Notebook — integrated workflow
-
 Data Sources — EHR, pharmacy claims, lab test results
 
-📈 Project Outcomes
+📈 Project Outcomes:
+
 Delivered a clean, unified dataset ready for population health analytics
-
 Improved data quality across three healthcare systems
-
 Enabled leadership to analyze chronic disease patterns
-
 Established a reproducible workflow for future analytics modules

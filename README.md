@@ -1,5 +1,6 @@
-# Population-Health-Improvement-Initiative - Data-Integration-Analytics
+# Population Health Improvement Initiative - Data-Integration Analytics
 This project demonstrates an end‑to‑end healthcare data integration and analytics workflow designed to support a Population Health Improvement Initiative focused on chronic conditions such as hypertension, diabetes, osteoarthritis, and high LDL cholesterol.
+
 The goal is to build a clean, unified, trustworthy dataset by integrating information from:
 
 ✔ Electronic Health Records (EHR) — patient demographics + chronic condition status

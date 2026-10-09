@@ -50,36 +50,40 @@ Excel was used for fast initial exploration before deeper cleaning in Python.
 Task 3 — Data Cleaning & Standardization (Python)
 Using pandas in Jupyter Notebook:
 
-Removed duplicate patient records
+✔ Removed duplicate patient records
 
-Standardized gender values (M → Male, F → Female)
+✔ Standardized gender values (M → Male, F → Female)
 
-Parsed and normalized date formats
+✔ Parsed and normalized date formats
 
-Cleaned inconsistent text fields
+✔ Cleaned inconsistent text fields
 
-Handled missing values across EHR, pharmacy, and lab datasets
+✔ Handled missing values across EHR, pharmacy, and lab datasets
 
-Produced a clean, unified dataset ready for SQL analysis.
+✔ Produced a clean, unified dataset ready for SQL analysis.
 
 Task 4 — SQL Analysis Using SQLite (Python + Jupyter Notebook)
 Connected to a SQLite medical database and executed SQL queries using Python:
 
 ✔ Patients born before 1980
+
 ✔ Female patients with Type 2 Diabetes
+
 ✔ Lab tests joined with patient demographics
+
 ✔ Distinct patients with payer information
+
 These queries support chronic disease monitoring and care coordination.
 
 🧠 Key Objectives:
 
-✔ Data Cleaning & Standardization
+✔ Data Cleaning & Standardization:
 
 Unified data from EHR, pharmacy, and lab systems
 Ensured consistency across patient records
 Prepared data for population health analytics
 
-✔ Multi-System Data Integration
+✔ Multi-System Data Integration:
 
 Linked datasets using PatientID
 Validated cross-system consistency
@@ -94,9 +98,13 @@ Supported leadership’s population health initiative
 🛠 Tech Stack:
 
 Excel — initial data inspection & summary
+
 Python — pandas, numpy
+
 SQLite — SQL queries for clinical data analysis
+
 Jupyter Notebook — integrated workflow
+
 Data Sources — EHR, pharmacy claims, lab test results
 
 📈 Project Outcomes:
